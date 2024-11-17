@@ -1,5 +1,8 @@
 # Detailed Overview of the Methodology and Analysis
 
+Notice:  KNIME Analytics Platform
+
+
 The provided analysis aims to predict house prices using various attributes related to housing properties. Below is a detailed explanation of how this was achieved, focusing on the advanced methodologies employed, the thought process, and the logic behind the steps:
 
 ---
